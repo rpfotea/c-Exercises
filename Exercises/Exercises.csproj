@@ -46,6 +46,7 @@
     <Compile Include="LateArrival.cs" />
     <Compile Include="Needs E-Check.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondHighest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
