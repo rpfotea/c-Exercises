@@ -10,7 +10,7 @@ namespace Exercises.Tests
         public void GetDriversLicense()
         {
             //Arrange
-            GetDrivers getDriver = new Exercises.GetDrivers();
+            GetDrivers getDriver = new GetDrivers();
            
             //Act
 

@@ -55,6 +55,7 @@
     <Compile Include="NeedsCheckTest.cs" />
     <Compile Include="HighestOddTest.cs" />
     <Compile Include="HighestSecondTest.cs" />
+    <Compile Include="LastDigitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

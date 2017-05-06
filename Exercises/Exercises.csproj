@@ -43,6 +43,7 @@
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="GetDrivers.cs" />
     <Compile Include="HighestOdd.cs" />
+    <Compile Include="LastDigit.cs" />
     <Compile Include="LateArrival.cs" />
     <Compile Include="Needs E-Check.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
