@@ -57,6 +57,7 @@
     <Compile Include="HighestSecondTest.cs" />
     <Compile Include="LastDigitTest.cs" />
     <Compile Include="ArrayDeduplicationTest.cs" />
+    <Compile Include="ArrayIntersectionTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
