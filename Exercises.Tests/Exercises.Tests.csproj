@@ -56,6 +56,7 @@
     <Compile Include="HighestOddTest.cs" />
     <Compile Include="HighestSecondTest.cs" />
     <Compile Include="LastDigitTest.cs" />
+    <Compile Include="ArrayDeduplicationTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
