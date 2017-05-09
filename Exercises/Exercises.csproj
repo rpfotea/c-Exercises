@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ArrayDeduplication.cs" />
     <Compile Include="ArrayIntersection.cs" />
+    <Compile Include="CloseFar.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="GetDrivers.cs" />
     <Compile Include="HighestOdd.cs" />

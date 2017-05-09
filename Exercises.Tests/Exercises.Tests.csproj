@@ -58,6 +58,7 @@
     <Compile Include="LastDigitTest.cs" />
     <Compile Include="ArrayDeduplicationTest.cs" />
     <Compile Include="ArrayIntersectionTest.cs" />
+    <Compile Include="CloseFarTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
