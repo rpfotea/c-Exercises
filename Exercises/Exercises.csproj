@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountClamps.cs" />
     <Compile Include="ArrayDeduplication.cs" />
     <Compile Include="ArrayIntersection.cs" />
     <Compile Include="CloseFar.cs" />

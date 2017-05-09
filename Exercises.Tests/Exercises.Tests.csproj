@@ -59,6 +59,7 @@
     <Compile Include="ArrayDeduplicationTest.cs" />
     <Compile Include="ArrayIntersectionTest.cs" />
     <Compile Include="CloseFarTest.cs" />
+    <Compile Include="CountClampsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
