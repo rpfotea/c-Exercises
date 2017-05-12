@@ -60,6 +60,7 @@
     <Compile Include="ArrayIntersectionTest.cs" />
     <Compile Include="CloseFarTest.cs" />
     <Compile Include="CountClampsTest.cs" />
+    <Compile Include="Has271Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

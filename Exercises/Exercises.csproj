@@ -46,6 +46,7 @@
     <Compile Include="CloseFar.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="GetDrivers.cs" />
+    <Compile Include="Has271.cs" />
     <Compile Include="HighestOdd.cs" />
     <Compile Include="LastDigit.cs" />
     <Compile Include="LateArrival.cs" />
