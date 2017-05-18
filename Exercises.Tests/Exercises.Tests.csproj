@@ -62,6 +62,7 @@
     <Compile Include="CountClampsTest.cs" />
     <Compile Include="Has271Test.cs" />
     <Compile Include="BlackjackTest.cs" />
+    <Compile Include="MaxBlockTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

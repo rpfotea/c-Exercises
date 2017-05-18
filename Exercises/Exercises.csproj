@@ -51,6 +51,7 @@
     <Compile Include="HighestOdd.cs" />
     <Compile Include="LastDigit.cs" />
     <Compile Include="LateArrival.cs" />
+    <Compile Include="MaxBlock.cs" />
     <Compile Include="Needs E-Check.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SecondHighest.cs" />
