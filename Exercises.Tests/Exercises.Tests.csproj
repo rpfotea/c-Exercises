@@ -61,6 +61,7 @@
     <Compile Include="CloseFarTest.cs" />
     <Compile Include="CountClampsTest.cs" />
     <Compile Include="Has271Test.cs" />
+    <Compile Include="BlackjackTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
