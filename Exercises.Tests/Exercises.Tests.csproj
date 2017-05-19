@@ -63,6 +63,7 @@
     <Compile Include="Has271Test.cs" />
     <Compile Include="BlackjackTest.cs" />
     <Compile Include="MaxBlockTest.cs" />
+    <Compile Include="MaxSpanTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
