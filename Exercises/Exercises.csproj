@@ -53,6 +53,7 @@
     <Compile Include="LateArrival.cs" />
     <Compile Include="MaxBlock.cs" />
     <Compile Include="MaxSpan.cs" />
+    <Compile Include="More14.cs" />
     <Compile Include="Needs E-Check.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SecondHighest.cs" />

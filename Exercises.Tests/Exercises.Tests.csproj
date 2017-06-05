@@ -64,6 +64,7 @@
     <Compile Include="BlackjackTest.cs" />
     <Compile Include="MaxBlockTest.cs" />
     <Compile Include="MaxSpanTest.cs" />
+    <Compile Include="More14Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
