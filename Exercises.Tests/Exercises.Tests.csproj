@@ -66,6 +66,7 @@
     <Compile Include="MaxSpanTest.cs" />
     <Compile Include="More14Test.cs" />
     <Compile Include="NoTripleTest.cs" />
+    <Compile Include="OneTwoTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
