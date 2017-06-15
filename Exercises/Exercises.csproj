@@ -58,6 +58,7 @@
     <Compile Include="NoTriples.cs" />
     <Compile Include="OneTwo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepeatSeparator.cs" />
     <Compile Include="SecondHighest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -67,6 +67,7 @@
     <Compile Include="More14Test.cs" />
     <Compile Include="NoTripleTest.cs" />
     <Compile Include="OneTwoTest.cs" />
+    <Compile Include="RepeatSeparatorTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
